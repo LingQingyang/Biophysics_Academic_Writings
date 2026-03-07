@@ -1,3 +1,0 @@
-export VITE_EDTRACE_BASE_DIR=/xcs221
-export VITE_EDTRACE_DIST_DIR=$PWD
-. .venv/bin/activate
